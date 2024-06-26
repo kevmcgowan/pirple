@@ -71,7 +71,7 @@ print(Genre)
 print(Track)
 print(DurationInSeconds, seconds)
 
-"""From this point on I have change to the signle line format
+"""From this point on I have changed to the single line format.
 This makes the output more readable."""
 
 Artist, Genre, Track, DurationInSeconds, seconds = "Goldfrapp", "Pop", "A&E", 199, "seconds"
