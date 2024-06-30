@@ -46,3 +46,14 @@ else:
 
 print(pyjamas)
 
+if (10<0) and (0 <-10):
+    print("A")
+else :
+    print("B")
+
+a = "b"
+if True or True:
+    a = "a"
+
+print(a*2)
+
