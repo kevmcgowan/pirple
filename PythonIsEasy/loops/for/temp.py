@@ -1,17 +1,17 @@
-# word = 'Hello'
+word = 'Hello'
 
-# letter = []
+letter = []
 
-# number = 1,2,3,4,5,6
+number = 1,2,3,4,5,6
 
-# for w in word:
-#     print(w)
-#     if w == 'e':
-#         print('what a funny letter')
+for w in word:
+    print(w)
+    if w == 'e':
+        print('what a funny letter')
     
-#     letter.append(w)
+    letter.append(w)
 
-# print(letter)
+print(letter)
 
 
 
@@ -24,7 +24,7 @@
 # for l in letter:
 #     print(l)
 
-# Modulus: dives by the numbers then prints the remainder
+# Modulus: divides by the numbers then prints the remainder
 # 1%2 = 1
 # 2%2 = 0
 # 3%2 - 0
