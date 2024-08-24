@@ -13,8 +13,19 @@ participants = ['Jen','Alex','Tina','Joe','Ben']
 
 
 
-for currentIndex in range(len(participants)):
-    if participants [currentIndex ]== 'Joe':
-        break
+# for currentIndex in range(len(participants)):
+#     print(currentIndex)
+#     if participants [currentIndex ]== 'Joe':
+#         print('have broke')
+#         break
+#     print('Have not broke')
 
-print(currentIndex+1)
+# print(currentIndex+1)
+
+for number in range(10):
+    if number%3 == 0:
+        print(number)
+        print('Divisible by 3')
+        continue
+    print(number)
+    print('Not divisible by 3')
