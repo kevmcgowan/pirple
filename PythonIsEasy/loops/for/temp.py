@@ -27,7 +27,7 @@ print(letter)
 # Modulus: divides by the numbers then prints the remainder
 # 1%2 = 1
 # 2%2 = 0
-# 3%2 - 0
+# 3%2 = 0
 
 # numbers = [1,2,3,4,5]
 
@@ -45,7 +45,7 @@ numbers = []
 
 # print(numbers)
 
-# to only add selcted ranges to a list. Shown below is all the odd numbers form a range starting at 0
+# to only add selcted ranges to a list. Shown below is all the even numbers form a range starting at 0
 for num in range(0,10,2):
     numbers.append(num)
     print(num)
