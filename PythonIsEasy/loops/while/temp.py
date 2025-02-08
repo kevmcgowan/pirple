@@ -47,18 +47,38 @@ position = 1
 
 # print(currentIndex+1)
 
-for number in range(10):
-    if number%3 == 0:
-        print(number)
-        print('is divisible by 3')
-        continue
-    print(number)
-    print('not divisible by 3')
+# for number in range(10):
+#     if number%3 == 0:
+#         print(number)
+#         print('is divisible by 3')
+#         continue
+#     print(number)
+#     print('not divisible by 3')
 
+# Word = "Hello"                       
+# Letters = []                        
+# for w in Word:                        
+#     Letters.append(w)               
+# print(Letters)
 
+# i = 1
+# while True:
+#     if i%3 == 0:
+#         break
+#     print(i)
+#     i += 1
 
+# for i in range(2.0):
+#     print(i)
 
+# counter = 1                         
+# while (counter <= 10):             
+#     print(counter)                 
+#     counter = counter + 1
 
+X = "abcd"
+for i in range(len(X)):
+    print(i)
 
 # height = 5000
 # velocity = 0.49
